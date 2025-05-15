@@ -8,7 +8,7 @@ const Project = () => {
       description:
         "A personal portfolio website showcasing projects, skills, and contact information.",
       image: portfolio,
-      live: "https://live-demo-1.com",
+      live: "https://my-portfolio-68yt.onrender.com",
     },
     {
       title: "Physiotherapist Website",
